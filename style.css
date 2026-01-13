@@ -13,6 +13,6 @@ body {
   height:20%;
   
   background-image: url("https://th.bing.com/th/id/OIP.1ixR0zAwb8NRv7Rs__B4BwHaE7?w=249&h=180&c=7&r=0&o=5&pid=1.7");
-  background-size:100%;
+  background-size:cover;
   background-repeat:repeat;
 }
