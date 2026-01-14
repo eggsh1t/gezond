@@ -7,5 +7,6 @@ body {
 }
 
 .banner {
-  background-color:red
+  background-color:red;
+  padding-bottom:1%;
 }
